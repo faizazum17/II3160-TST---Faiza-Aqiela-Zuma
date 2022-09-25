@@ -4,3 +4,4 @@ a = 3
 b = 5
 total = a + b
 print(total)
+print("program exited")
